@@ -1,0 +1,31 @@
+<motos>
+    <moto>
+        <id>1</id>
+        <marca>Yamaha</marca>
+        <modelo>MT-07</modelo>
+        <color>Negro</color>
+        <precio>8000</precio>
+    </moto>
+    <moto>
+        <id>2</id>
+        <marca>Honda</marca>
+        <modelo>CBR600RR</modelo>
+        <color>Rojo</color>
+        <precio>9500</precio>
+    </moto>
+    <moto>
+        <id>3</id>
+        <marca>Kawasaki</marca>
+        <modelo>Z900</modelo>
+        <color>Verde</color>
+        <precio>8500</precio>
+    </moto>
+    <moto>
+        <id>4</id>
+        <marca>Ducati</marca>
+        <modelo>Monster</modelo>
+        <color>Azul</color>
+        <precio>12000</precio>
+    </moto>
+</motos>
+
